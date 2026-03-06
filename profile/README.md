@@ -2,7 +2,7 @@
 
 **A guided journey toward clarity for regulated enterprise.**
 
-Atoura is building a System of Intelligence that integrates data across a bank's processors, risk platforms, and operations workflows — making every AI-assisted decision auditable, every control gap visible, and every operational handoff a guided step toward clarity.
+Atoura is building a System of Intelligence that integrates data across a bank's processors, risk platforms, and operations workflows: making every AI-assisted decision auditable, every control gap visible, and every operational handoff a guided step toward clarity.
 
 Revenue can't see risk. Risk can't see operations. Atoura closes those gaps.
 
